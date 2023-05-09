@@ -1,0 +1,12 @@
+cloudinary
+geopy
+gunicorn
+flask
+flask-jwt-extended
+flask-migrate
+flask-smorest
+flask-sqlalchemy
+passlib
+python-dotenv
+psycopg2
+redis
